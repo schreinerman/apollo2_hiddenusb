@@ -6,7 +6,7 @@ Do the USB Cable connection:
 - Connect D- to AMAPHEVB GPIO8
 - Connect D+ to AMAPHEVB GPIO9
 - Connect GND to AMAPHEVB GND
-- Connect 5V to AMAPHEVB 5V (!!not to VCC!!)
+- Connect VBUS (5V) to AMAPHEVB 5V (!!not to VCC!!)
 
 Last Step:
 - Connect USB to PC.
