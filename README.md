@@ -14,3 +14,5 @@ Last Step:
 Wait 15 seconds and see the result on a Windows PC
 
 See also http://shop.feeu.com/Shops/es966226/Products/AMAPHEVB to order a board
+
+Stay tuned for the full sources...
