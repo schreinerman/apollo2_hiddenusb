@@ -1,4 +1,8 @@
-# apollo2_hiddenusb
+# apollo2 hiddenusb
+
+Apollo2 hidden USB is not a hidden hardware feature, but software bit-banging using Apollo2s flexible GPIOs including the capability to drive 1.5k pullup resistors on special pins used with I2C. At least low-speed USB is working for realizing HID USB transfers. Idea is to add an USB HID based bootloader.
+
+How to try the demo, starting the start menu and typing "April Joke" and return (opens Internet Explorer searching for April Joke):
 
 Download apollo2_hiddenusb.bin to Apollo2 MCU
 
